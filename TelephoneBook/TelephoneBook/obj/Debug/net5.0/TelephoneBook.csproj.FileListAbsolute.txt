@@ -1,0 +1,16 @@
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\bin\Debug\net5.0\TelephoneBook.exe
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\bin\Debug\net5.0\TelephoneBook.deps.json
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\bin\Debug\net5.0\TelephoneBook.runtimeconfig.json
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\bin\Debug\net5.0\TelephoneBook.runtimeconfig.dev.json
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\bin\Debug\net5.0\TelephoneBook.dll
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\bin\Debug\net5.0\ref\TelephoneBook.dll
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\bin\Debug\net5.0\TelephoneBook.pdb
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\obj\Debug\net5.0\TelephoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\obj\Debug\net5.0\TelephoneBook.AssemblyInfoInputs.cache
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\obj\Debug\net5.0\TelephoneBook.AssemblyInfo.cs
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\obj\Debug\net5.0\TelephoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\obj\Debug\net5.0\TelephoneBook.dll
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\obj\Debug\net5.0\ref\TelephoneBook.dll
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\obj\Debug\net5.0\TelephoneBook.pdb
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\obj\Debug\net5.0\TelephoneBook.genruntimeconfig.cache
+C:\Users\Melek\source\repos\TelephoneBook\TelephoneBook\obj\Debug\net5.0\TelephoneBook.csproj.AssemblyReference.cache
